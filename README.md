@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
      */
     public void sendMessage(View view) {
         // Do something in response to button
-        //An error remains for DisplayMessageActivity, but that's okay; you'll fix that in the next section.
+       
 
         Intent intent = new Intent(this, DisplayMessageActivity.class);
 
